@@ -1,1 +1,5 @@
-
+INSERT INTO [dbo].[Dados] ([Id], [Nome], [Email], [Senha], [CEP]) VALUES (N'beuthydd', N'Beuthydd', N'beuthydd@gmail.com', N'beuth', 22210030)
+INSERT INTO [dbo].[Dados] ([Id], [Nome], [Email], [Senha], [CEP]) VALUES (N'mariokart', N'Mario', N'mariokart@gmail.com', N'markat', 12345612)
+INSERT INTO [dbo].[Dados] ([Id], [Nome], [Email], [Senha], [CEP]) VALUES (N'Sympla', N'Sympla', N'Sympla@gmail.com', N'Euamomamao', 32165487)
+INSERT INTO [dbo].[Dados] ([Id], [Nome], [Email], [Senha], [CEP]) VALUES (N'Test', N'Test2', N'test2@gmail.com', N'hdjkahksjhkajd', 213551568)
+INSERT INTO [dbo].[Dados] ([Id], [Nome], [Email], [Senha], [CEP]) VALUES (N'teste', N'teste', N'teste@teste', N'sjhkajsa', 123456878)

@@ -1,4 +1,4 @@
-# Plano de Testes de Usabilidade da área de cadastramento
+# Plano de Usabilidade da área de cadastramento
 
 
 # Roteiro
@@ -25,76 +25,75 @@ Pedir para o usuário silenciar o celular.
     <th>De 0 a 5 qual nível de dificuldade para realizar as tarefas solicitadas?</th>
   </tr>
   <tr>
-    <td>Usuário #1</td>
+    <td></td>
     <td>
       <ul>
-        <li>17 anos</li>
+        <li></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Masculino</li>
+        <li></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Muita experiência no uso de sites</li>
+        <li></li>
       </ul>
     </td>
     <td>
-      <li>não</li>
+      <li></li>
     </td>
     <td>
-      <li>5</li>
+      <li></li>
     </td>
   </tr>
   <tr>
-    <td>Usuário #2
-    </td>
+    <td></td>
     <td>
       <ul>
-        <li>31 anos</li>
+        <li></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Feminino</li>
+        <li></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Muita experiência no uso de sites</li>
+        <li></li>
       </ul>
     </td>
     <td>
-      <li>Não</li>
+      <li></li>
     </td>
     <td>
-      <li>5</li>
+      <li></li>
     </td>
   </tr>
   <tr>
-    <td>Usuário #3</td>
+    <td></td>
     <td>
       <ul>
-        <li>27 anos</li>
+        <li></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Não Binário</li>
+        <li></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Muita experiência no uso de sites</li>
+        <li></li>
       </ul>
     </td>
     <td>
-      <li>Não</li>
+      <li></li>
     </td>
     <td>
-      <li>5</li>
+      <li></li>
     </td>
   </tr>
   <tr>
@@ -132,8 +131,8 @@ Descrição da tarefa: Faça um cadastro pessoal no site
     
   </tr>
   <tr>
-    <td>Usuário #1</td>
-    <td>x</td
+    <td></td>
+    <td></td
     <td>
       <ul>
        <td></td>
@@ -147,8 +146,8 @@ Descrição da tarefa: Faça um cadastro pessoal no site
   </tr>
   <tr>
      <tr>
-    <td>Usuário #2</td>
-    <td>x</td
+    <td></td>
+    <td></td
     <td>
       <ul>
        <td></td>
@@ -162,8 +161,8 @@ Descrição da tarefa: Faça um cadastro pessoal no site
   </tr>
   <tr>
      <tr>
-    <td>Usuário #3</td>
-    <td>x</td
+    <td></td>
+    <td></td
     <td>
       <ul>
        <td></td>
@@ -201,8 +200,8 @@ Descrição da tarefa: Faça login
     
   </tr>
   <tr>
-    <td>Usuário #1</td>
-    <td>x</td
+    <td></td>
+    <td></td
     <td>
       <ul>
        <td></td>
@@ -216,8 +215,8 @@ Descrição da tarefa: Faça login
   </tr>
   <tr>
      <tr>
-    <td>Usuário #2</td>
-    <td>x</td
+    <td></td>
+    <td></td
     <td>
       <ul>
        <td></td>
@@ -231,8 +230,8 @@ Descrição da tarefa: Faça login
   </tr>
   <tr>
      <tr>
-    <td>Usuário #3</td>
-    <td>x</td
+    <td></td>
+    <td></td
     <td>
       <ul>
        <td></td>
@@ -255,7 +254,6 @@ Momento para rever como o usuário se sentiu realizando as tarefas, se tem algo 
 Se não tiver tocado nos seguintes assuntos, é possível perguntar diretamente ao usuário o que ele achou sobre:
 
 - Site intuitivo, fácil manuseio, layout interessante,
-- Muito fácil
 
 
 Agradecer o usuário e explicar o valor da sua participação.
@@ -270,24 +268,12 @@ Agradecer o usuário e explicar o valor da sua participação.
     
   </tr>
   <tr>
-    <td>Achei fácil</td>
-    <td>Bem intuitivo e gostei do layout mais clean</td>
-    <td>Tranquilo!</td
+    <td></td>
+    <td></td>
+    <td></td
     <td>
   
 
 </table>
 
 
-
-# Plano de Testes de Usabilidade
-
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
-
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
-
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)

@@ -42,12 +42,14 @@ etiquetas:
         <th>Full Stack 1</th>
         <th>Full Stack 2</th>
         <th>Full Stack 3</th>
+        <th>Full Stack 4</th>
     </tr>
     <tr>
         <td>Ana Luiza Lima</td>
         <td>Déborah Souza</td>
         <td>Paulo Henrique</td>
         <td>Thais Silva</td>
+        <td>Carolina Dolacio</td>
     </tr>
 </table>
 

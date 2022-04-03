@@ -1,4 +1,4 @@
-# Plano de Usabilidade da área de cadastramento
+# Teste de Usabilidade da Área de Cadastramento
 
 
 # Roteiro

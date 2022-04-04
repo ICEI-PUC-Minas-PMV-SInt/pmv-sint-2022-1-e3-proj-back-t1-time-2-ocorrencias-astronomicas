@@ -8,6 +8,8 @@ SEMESTRE: Turma 1 - 2022/1
 
 AstroCal é um site voltado para informações sobre eventos astronômicos. Com layout intuitivo e simplificado, permitimos que diversos usuários entusiastas ou profissionais de diversas áreas, acessem a plataforma para consultar ou inserir informações sobre os eventos, fomentando um calendário mensal e anual colaborativo.
 
+Link do site: https://astrocal.azurewebsites.net/
+
 ## Integrantes
 
 - Ana Luiza Lima

@@ -1,19 +1,29 @@
-# Plano de Testes de Software
+# Plano de Teste de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+# Resumo
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+<table>
+  <tr>
+   <th>USER STORY </th>
+   <th>Qual o valor para o Usuário?</th>
+   <th>Qual o valor para o Negócio?</th>
+  </tr>
  
-## Ferramentas de Testes (Opcional)
+ <tr>
+    <td>Eu enquanto usuário, 
+     quero poder me cadastrar em um site
+     Para que eu tenha conhecimento das atualizações e informações do site e de eventos referêntes à minha localização, diretamente em meu e-mail.
+  </td>
+    <td>Agregar atualizações referente à ocorrências astronômicas gerais e locais, via e-mail.
+  </td>
+   <td>Permitir o acesso de informação voltado para astronomia de forma simplificada para o usuário e proporcionar ao usuário a verificação das ocorrências astronômicas.
+  </td>
+ </tr>
+</table>
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+# Cadastrar um novo membro
+ <li>Dado que (Given) possua as informações pessoais como Usuário, Nome, E-mail, senha e CEP</li>
+ <li>Quando (When) fizer o cadastro</li>
+ <li>Então (Then) as informações devem ser armazenada na local storage</li>

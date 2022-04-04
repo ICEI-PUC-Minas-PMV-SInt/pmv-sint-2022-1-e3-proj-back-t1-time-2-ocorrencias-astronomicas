@@ -1,6 +1,6 @@
-# Registro de Testes de Software
 
-Segue o registro do plano de teste de software. Para mais informações acessar os arquivos: "teste cadastro - negativo", "teste cadastro - positivo", e a imagem "LocalStorage".
+
+Segue o registro do plano de teste de software. Para mais informações acessar os arquivos: "teste cadastro - negativo", "teste cadastro - positivo"
 
 ## Cenário de teste de cadastro de software positivo 
 Sessão de Gravação: ‎03/‎04/‎2022 21:19:13 - 21:27:08

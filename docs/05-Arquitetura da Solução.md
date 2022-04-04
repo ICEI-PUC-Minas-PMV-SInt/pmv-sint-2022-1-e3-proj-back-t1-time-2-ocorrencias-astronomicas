@@ -6,25 +6,19 @@
 
 <img src="img/Diagrama de classes.png"/>
 
-## Modelo ER
+## Modelo ER e Esquema Relacional
 
 <img src="img/Modelo ER.png"/>
-
-## Esquema Relacional
-
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
 
 ## Modelo Físico (DDL)
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+- ARQUIVO JÁ INSERIDO NA PASTA SOLICITADA.
 
 ## Instruções SQL de Manipulação do BD (DML)
 
 Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+- ARQUIVO JÁ INSERIDO NA PASTA SOLICITADA.
 
 ## Tecnologias Utilizadas
 

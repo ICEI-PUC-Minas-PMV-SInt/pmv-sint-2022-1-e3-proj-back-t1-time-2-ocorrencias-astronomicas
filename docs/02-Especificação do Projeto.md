@@ -208,4 +208,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-<img src="img/Diagrama de caso de uso - Página 1.png"/>
+<img src="img/Diagrama de caso de uso .png"/>

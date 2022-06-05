@@ -167,12 +167,10 @@ Assim, neste documento serão abordadas as definições de persona, histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Como usuário   | Quero poder verificar as ocorrências astronômicas de acordo com a localização.           | Para que eu tenha conhecimento de que ocorrências eu posso visualizar em minha localidade.              |
-|Como usuário       | Quero poder verificar informações sobre ocorrências astronômicas                 | Para que eu possa entender seus conceitos e o que cada termo significa. |
-|Como usuário       | Quero poder postar comentários visíveis para outros usuários.                    | Para que eu possa compartilhar conhecimento com outras pessoas interessadas em ocorrências astronômicas. |
-|Como usuário       | Quero poder visualizar os comentários de outros usuários.                 | Para que eu possa adquirir novos conhecimentos. |
+|Como usuário       | Quero poder postar comentários.                    | Para que eu possa compartilhar conhecimento com outras pessoas interessadas em ocorrências astronômicas. |
 |Como usuário       | Quero poder me cadastrar no site.                 |Para poder salvar e acessar minhas informações e dados independente do lugar ao qual o site for acessado.|
-|Como usuário       | Quero poder salvar imagens de ocorrências astronômicas visíveis para outros usuários.                 | Para poder ver e compartilhar novas imagens sobre ocorrências astronômicas. |
+|Como usuário       | Quero poder salvar imagens de ocorrências astronômicas.                 | Para poder ver e compartilhar novas imagens sobre ocorrências astronômicas. |
+|Como usuário       | Quero poder cadastrar ocorrências astronômicas.                 | Para poder ver e compartilhar novas ocorrências astronômicas. |
 
 ## Requisitos
 
@@ -185,15 +183,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir o cadastro  do usuário na plataforma   | ALTA |
 |RF-002| Permitir login de usuários cadastrados   | ALTA |
 |RF-003| Permitir o salvamento dos dados cadastrados no banco de dados   | ALTA |
-|RF-004| Permitir ao usuário inserir comentários visíveis a outros usuários    | MÉDIA |
-|RF-005| Permitir ao usuário inserir fotos visíveis a outros usuários    | MÉDIA |
-|RF-006| Permitir busca por palavra-chave referente a ocorrência astronômica   | MÉDIA |
-|RF-007| Tela informativa sobre ocorrências astronômicas   | MÉDIA |
-|RF-008| Apresentar calendário de ocorrências astronômicas   | MÉDIA |
-|RF-009| Permitir que o usuário visualize ocorrências astronômicas visíveis   | MÉDIA |
-|RF-010| Será possível visualizar em uma página os integrantes do grupo    | BAIXA |
-|RF-011| Ao clicar na logo deverá ser redirecionado a página inicial    | MÉDIA |
-|RF-012| Ao executar o scroll na tela inical deve ser levada para a tela de eventos astronômicos   | MÉDIA |
+|RF-004| Permitir ao usuário inserir comentários    | MÉDIA |
+|RF-005| Permitir ao usuário inserir fotos    | MÉDIA |
+|RF-006| Permitir ao usuário cadastrar ocorrências astronômicas    | MÉDIA |
 
 ### Requisitos não Funcionais
 

@@ -1,3 +1,3 @@
 # Apresentação da Solução
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+Infelizmente a plataforma do git suporta uma quantidade muito baixa de Mb para a necessidade de nosso projeto. Desta forma, compilamos os nossos quatro vídeos em uma playlist do youtube que pode ser acessada através deste link: https://youtube.com/playlist?list=PLhs9Wow2bmKGUNiCiIQvuH0WICjfDSxMx

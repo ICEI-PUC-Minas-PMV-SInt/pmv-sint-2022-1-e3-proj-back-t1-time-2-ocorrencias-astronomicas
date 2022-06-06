@@ -35,7 +35,7 @@ No trecho acima pode-se verificar a implementação do Logout dentro do controll
 
 Pode-se verificar no trecho acima as condições para acesso das páginas, onde só o administrados possui acesso a página de usuários.
 
-- ID RF-003	Permitir o salvamento dos dados cadastrados no banco de dados	
+-ID RF-003	Permitir o salvamento dos dados cadastrados no banco de dados	
 
 -ID RF-004	Permitir ao usuário inserir comentários	
 

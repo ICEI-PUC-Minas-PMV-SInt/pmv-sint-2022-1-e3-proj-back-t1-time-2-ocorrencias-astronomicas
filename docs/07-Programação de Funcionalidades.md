@@ -43,6 +43,8 @@ Pode-se verificar no trecho acima as condições para acesso das páginas, onde 
 
 -ID RF-006	Permitir ao usuário cadastrar ocorrências astronômicas	
 
+Infelizmente a plataforma do git suporta uma quantidade muito baixa de Mb para a necessidade de nosso projeto. Desta forma, compilamos os nossos quatro vídeos em uma playlist do youtube que pode ser acessada através deste link: https://youtube.com/playlist?list=PLhs9Wow2bmKGUNiCiIQvuH0WICjfDSxMx
+
 Link do site: https://astrocal-site.herokuapp.com/
 
 

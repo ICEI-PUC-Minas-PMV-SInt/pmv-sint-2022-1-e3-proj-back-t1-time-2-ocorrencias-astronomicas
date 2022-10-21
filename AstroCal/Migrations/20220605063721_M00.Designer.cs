@@ -9,8 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AstroCal.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220605063721_M00")]
+
     partial class M00
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

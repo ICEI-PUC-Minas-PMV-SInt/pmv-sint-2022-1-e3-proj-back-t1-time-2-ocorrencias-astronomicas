@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroCal", "AstroCal\AstroCal.csproj", "{C1BA7D39-A69D-47E2-A3BF-2236192EDABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AstroCal", "AstroCal\AstroCal.csproj", "{C1BA7D39-A69D-47E2-A3BF-2236192EDABB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api-projeto-astrocal", "..\..\pmv-sint-2022-1-e3-proj-back-t1-time-2-ocorrencias-astronomicas\api-projeto-astrocal\api-projeto-astrocal\api-projeto-astrocal.csproj", "{B4747DD2-E202-417D-94B9-062F6EEB440D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C1BA7D39-A69D-47E2-A3BF-2236192EDABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1BA7D39-A69D-47E2-A3BF-2236192EDABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1BA7D39-A69D-47E2-A3BF-2236192EDABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4747DD2-E202-417D-94B9-062F6EEB440D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4747DD2-E202-417D-94B9-062F6EEB440D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4747DD2-E202-417D-94B9-062F6EEB440D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4747DD2-E202-417D-94B9-062F6EEB440D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
